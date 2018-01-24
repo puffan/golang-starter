@@ -8,6 +8,10 @@ md notes about learning golang
 
 ## Tools
 ### ENV
+比较麻烦的事儿是 golang.org 被墙，安装包得从国内一些镜像站点获取。我从这个站获取的：https://www.golangtc.com/ 但貌似也访问不了了
+
+- Windows 上环境准备 https://github.com/abourget/getting-started-with-golang/blob/master/Getting_Started_for_Windows.md
+- Mac 上环境准备 https://github.com/abourget/getting-started-with-golang/blob/master/Getting_Started_for_MAC_OS_X.md
 - 配置环境变量 https://www.jianshu.com/p/4e699ff478a5
 
 ### IDE
