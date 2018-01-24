@@ -13,6 +13,7 @@ md notes about learning golang
 - Windows 上环境准备 https://github.com/abourget/getting-started-with-golang/blob/master/Getting_Started_for_Windows.md
 - Mac 上环境准备 https://github.com/abourget/getting-started-with-golang/blob/master/Getting_Started_for_MAC_OS_X.md
 - 配置环境变量 https://www.jianshu.com/p/4e699ff478a5
+- go get 被墙解决 https://github.com/northbright/Notes/blob/master/Golang/china/get-golang-packages-on-golang-org-in-china.md
 
 ### IDE
 - VS Code https://code.visualstudio.com/
