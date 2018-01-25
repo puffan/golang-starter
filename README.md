@@ -33,4 +33,11 @@ md notes about learning golang
 - 示例 https://github.com/kataras/iris/tree/master/_examples
 
 ## Libs
-- Database https://segmentfault.com/a/1190000003036452
+
+### Database
+
+#### MySQL 
+- Driver https://github.com/Go-SQL-Driver/MySQL/
+- Driver DOC http://go-database-sql.org/index.html
+- 网文学习笔记 https://segmentfault.com/a/1190000003036452
+
